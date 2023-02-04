@@ -40,7 +40,7 @@ $config =
 ```
 ## Configurando Mikrotik
 
-### Incapaz de estabelecer sessão de soquete, operação expirou.
+### Unable to establish socket session, Connection refused.
 
 Este erro significa que a biblioteca não pode se conectar ao seu roteador,
 que o Mikrotik está desligado ou o serviço da API não está ativo.
