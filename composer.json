@@ -1,7 +1,7 @@
 {
   "name": "joserf/mikrotik-php-api",
   "type": "library",
-  "description": "Mikrotik RouterOS PHP API ",
+  "description": "Mikrotik RouterOS PHP API",
   "keywords": [
     "routeros",
     "mikrotik",
