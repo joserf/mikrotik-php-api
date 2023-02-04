@@ -4,7 +4,9 @@
   "description": "Mikrotik RouterOS PHP API ",
   "keywords": [
     "routeros",
-    "mikrotik"
+    "mikrotik",
+    "API",
+    "PHP"
   ],
   "license": "MIT",
   "autoload": {
@@ -14,7 +16,7 @@
   },
   "authors": [
     {
-      "name": "Jose Rodrigues Filho",
+      "name": "José Rodrigues Filho",
       "email": "contato@joserodriguesfilho.com",
       "homepage": "http://www.joserodriguesfilho.com",
       "role": "Developer"
