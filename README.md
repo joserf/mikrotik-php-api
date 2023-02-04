@@ -161,7 +161,7 @@ print_r(json_encode($response, JSON_PRETTY_PRINT));
 
 ## Links
 
-* [RouterOS Manual:API](https://wiki.mikrotik.com/wiki/Manual:API)
+* [RouterOS Manual:API](https://wiki.mikrotik.com/wiki/Manual:API) - Mikrotik oficial
 
 
 
