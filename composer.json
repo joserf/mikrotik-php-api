@@ -5,8 +5,8 @@
   "keywords": [
     "routeros",
     "mikrotik",
-    "API",
-    "PHP"
+    "api",
+    "php"
   ],
   "license": "MIT",
   "autoload": {
