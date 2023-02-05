@@ -119,6 +119,7 @@ Após a execução do comando `php exemplo.php`, teremos como resultado:
     }
 ]
 ```
+> *Podemos efetuar o teste via web: `php -S localhost:8000/exemplo.php`
 
 ## Monitorando tráfego na interface
 > comentário: `ether1`
