@@ -160,6 +160,17 @@ print_r(json_encode($response, JSON_PRETTY_PRINT));
 
 ```
 
+## Uptime
+```php
+// Build query (Get resources in RouterOS)
+$query = new Query("/system/resource/print");
+
+// Show uptime active in RouterOS
+echo 'Uptime: ' . json_encode($response[0]['uptime']);
+
+```
+
+
 ## Links
 
 * [RouterOS Manual:API](https://wiki.mikrotik.com/wiki/Manual:API) - Mikrotik oficial
